@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 2383938-2
+#/15975925/1228974/2.50/2/3/Connector
+DEF 2383938-2 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "2383938-2" 650 200 50 H V L CNN
+F2 "23839382" 650 100 50 H I L CNN
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2383938%7FA1%7Fpdf%7FEnglish%7FENG_CD_2383938_A1.pdf%7F2383938-2" 650 0 50 H I L CNN
+F4 "Pluggable Terminal Blocks TERMI-BLOK SMD MOUNT 180_2P_5 MM" 650 -100 50 H I L CNN "Description"
+F5 "10.15" 650 -200 50 H I L CNN "Height"
+F6 "571-2383938-2" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/2383938-2?qs=QNEnbhJQKvZIlG3%252BZLZHmw%3D%3D" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "TE Connectivity" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "2383938-2" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
